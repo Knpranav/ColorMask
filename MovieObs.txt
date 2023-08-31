@@ -1,0 +1,32 @@
+Greenest Frame New
+lColor = np.array([40,70,0])
+uColor = np.array([80,255,255])
+
+Median: 55
+Change: +10
+Theoretical: 65
+Practical: 64
+PracticalInVid: 62
+
+FinalObs: 48
+
+
+
+Greenest Frame Old
+lower_green = np.array([40, 100, 50])
+upper_green = np.array([95, 255, 255])
+
+Median: 68 
+Change: -10
+Theory:  58
+Practical:  60
+Obs: 49
+
+Change: +10
+Theory: 78
+Practical:77
+FinalObs:70
+
+
+
+
